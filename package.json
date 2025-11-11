@@ -1,0 +1,12 @@
+{
+  "name": "license-bot",
+  "version": "1.0.0",
+  "description": "Simple license generator bot",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.16.0",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  }
+}
